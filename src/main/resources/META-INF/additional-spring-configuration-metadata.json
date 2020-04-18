@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "project-build-time",
+      "type": "java.lang.String",
+      "description": "Time when the project was built."
+    }
+  ] }
